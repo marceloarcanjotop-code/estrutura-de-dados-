@@ -1,0 +1,15 @@
+1. Explique com suas palavras o que e um ponteiro em programacao.
+
+2. Em linguagens como C, o que significa dizer que uma variavel armazena o endereco de memoria de outra variavel?
+
+3. Python possui ponteiros como C? Explique como Python trabalha com referencias a objetos.
+
+7. Explique por que, no caso de listas, duas variaveis podem apontar para o mesmo objeto em Python.
+
+10. Explique a diferenca entre usar == e is em Python.
+
+14. Explique por que objetos mutaveis, como listas e dicionarios, podem ser alterados dentro de funcoes em Python.
+
+15. Explique por que objetos imutaveis, como inteiros, floats, strings e tuplas, nao sao alterados diretamente dentro de funcoes.
+
+19. Pesquise e explique a diferenca entre copia rasa e copia profunda em Python.
